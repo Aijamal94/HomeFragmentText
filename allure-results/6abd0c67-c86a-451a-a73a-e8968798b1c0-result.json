@@ -1,0 +1,85 @@
+{
+    "name": "HomeFragmentText",
+    "start": 1744545995325,
+    "stop": 1744545997984,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Находим элемент с текстом",
+            "start": 1744545996705,
+            "stop": 1744545996705,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем, что текст совпадает",
+            "start": 1744545996795,
+            "stop": 1744545996795,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "6abd0c67-c86a-451a-a73a-e8968798b1c0",
+    "historyId": "3c15fdedddc4a0690c44c77df17af957",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTextTest.HomeFragmentText",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "HomeFragmentText"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.HomeFragmentTextTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(51)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
