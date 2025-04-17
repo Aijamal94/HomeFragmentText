@@ -47,5 +47,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.5.2'
     androidTestImplementation 'junit:junit:4.12'
     androidTestImplementation 'io.qameta.allure:allure-kotlin-android:2.4.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.4.0'
 
 }
